@@ -17,7 +17,7 @@ TEAM is a field communications app designed for use when traditional networks ar
 
 | Home / Channels | Messages | Map / Telemetry | Connection | Settings |
 |---|---|---|---|---|
-| ![Home](docs/images/home.png) | ![Messages](docs/images/messages.png) | ![Map](docs/images/map.png) | ![Connection](docs/images/connection.png) | ![Settings](docs/images/settings.png) |
+| ![Home](images/home.jpg) | ![Messages](images/messages.jpg) | ![Map](images/map.jpg) | ![Connection](images/connection.jpg) | ![Settings](images/settings.jpg) |
 
 ---
 
