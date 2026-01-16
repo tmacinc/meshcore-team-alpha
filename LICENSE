@@ -1,0 +1,41 @@
+Evaluation and Testing License (Binary Distribution Only)
+
+Copyright (c) 2025 tmacinc
+
+This software application (the “Software”) is provided in binary form only for evaluation and testing purposes.
+
+1. Grant of License
+
+You are granted a limited, non-exclusive, non-transferable, revocable license to install and use the Software solely for personal, non-commercial evaluation and testing.
+
+2. Restrictions
+
+You may not:
+
+Modify, adapt, translate, or create derivative works of the Software;
+
+Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code;
+
+Redistribute, sublicense, rent, lease, sell, or otherwise make the Software available to any third party;
+
+Use the Software for any commercial purpose.
+
+3. Ownership
+
+All rights, title, and interest in and to the Software, including all intellectual property rights, remain with the copyright holder. No rights are granted except as expressly set forth in this License.
+
+4. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. Limitation of Liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any term of this License. Upon termination, you must cease all use of the Software.
+
+7. Future Open-Source Release
+
+The source code for this Software is not currently public. The copyright holder may, at their discretion, release the source code in the future under a separate open-source license. Such a release shall not retroactively alter the terms of this License for the binary distributed under it.
