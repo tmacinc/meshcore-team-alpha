@@ -13,10 +13,6 @@ TEAM is a field communications app designed for use when traditional networks ar
 - Automatic contact discovery via mesh advertisements
 - Background operation (foreground service) for reliable connectivity
 
-## Known Bugs
-
-- Bluetooth pairing. Not prompting for pin, shows unknown device. Pair device in MeshCore App, then connect in Team. Fix in progress.
-
 ## Screenshots
 
 | Home / Channels | Messages | Map / Telemetry | Connection | Settings |
