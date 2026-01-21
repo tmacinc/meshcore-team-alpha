@@ -30,7 +30,7 @@
 
 - add unread below bar on chats.
 
-- add mute notifications for specific chat options
+- add mute notifications for specific chat options -DONE
 
 - remember last chat window opened?
 
