@@ -13,3 +13,6 @@
 - initial notification doesn't go away. Should initialize and then say connected. Should be fixed, needs testing. Cause was BLE manager and connection manager causing multiple notifications. 0.3.1
 
 - if text active, statys active when switching chats.
+
+- progress of waypoint sharing.
+
