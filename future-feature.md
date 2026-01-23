@@ -52,6 +52,8 @@
 - auto send message on reconnect? Currently gets lost. DONE
 - added companion battery voltage display to connection screen.
 - Test/add companion gps data functionality. ADDED, seems working.
+- Moved app persistence to BLE manager so the app behaives normally when not connected. Added stop button to notification to force stop the service if needed/for convenience.
+
 
 ### 1.0
 - port to flutter for iOS support.
