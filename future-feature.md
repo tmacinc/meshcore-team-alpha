@@ -12,7 +12,28 @@
 
 - remember last chat window opened?
 
-- Test/add companion gps data functionality. ADDED, NEEDS TESTING
+
+
+- broaden focus, hunting, backcountry, day-to-day, crisis, SAR
+
+- Splash screen on launch, logo and name on first launch. Setting to disable
+
+- Connection Tab
+    1. scan button - change on launch to not be retry, switch to retry after first scan. add icon in the description text.
+    2. pull and display radio settings - (add ability to configure radio settings)
+    3. Location tracking settings, option to change location update interval in minutes (already planned and in debug stage)
+
+- Map tab
+    1. ring interval: make customizable input for radius aside from predefined option.
+
+- App settings
+    1. customizable accent color
+    2. light and dark mode
+
+- Future capability
+    1. EXFIL plans and sharing via bluetooth. See ReadyPlan for reference.
+
+
 
 ## DONE
 - add mute notifications for specific chat options -DONE
@@ -29,7 +50,8 @@
 - add unread below bar on chats. DONE
 - click user on map allows send message to user. DONE
 - auto send message on reconnect? Currently gets lost. DONE
-
+- added companion battery voltage display to connection screen.
+- Test/add companion gps data functionality. ADDED, seems working.
 
 ### 1.0
 - port to flutter for iOS support.
