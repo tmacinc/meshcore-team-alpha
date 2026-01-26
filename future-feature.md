@@ -8,7 +8,7 @@
 
 - fix if text active, stays active when switching chats.
 
-- move delete local data button to settings as restore app defaults/wipe data and remove data deletion option from connection screen.
+
 
 - remember last chat window opened?
 
@@ -20,7 +20,7 @@
 
 - Connection Tab
     1. scan button - change on launch to not be retry, switch to retry after first scan. add icon in the description text.
-    2. pull and display radio settings - (add ability to configure radio settings)
+    2. pull and display radio settings - (add ability to configure radio settings) DONE
     3. Location tracking settings, option to change location update interval in minutes (already planned and in debug stage)
 
 - Map tab
@@ -53,7 +53,9 @@
 - added companion battery voltage display to connection screen.
 - Test/add companion gps data functionality. ADDED, seems working.
 - Moved app persistence to BLE manager so the app behaives normally when not connected. Added stop button to notification to force stop the service if needed/for convenience.
-
+- move delete local data button to settings as restore app defaults/wipe data and remove data deletion option from connection screen. DONE
+- scan button - change on launch to not be retry, switch to retry after first scan. add icon in the description text.DONE
+- pull and display radio settings - (add ability to configure radio settings) DONE
 
 ### 1.0
 - port to flutter for iOS support.
