@@ -1,6 +1,6 @@
 ## feature requests
 
-- User configurable telemetry intervals, time and distance based.
+
 
 - historical track when user selected on map
 
@@ -8,7 +8,7 @@
 
 - fix if text active, stays active when switching chats.
 
-
+- Check if bearings are handled properly, currently varying a lot while stationary. WORKING - added filter, movement based bearing when moving.
 
 - remember last chat window opened?
 
@@ -56,6 +56,8 @@
 - move delete local data button to settings as restore app defaults/wipe data and remove data deletion option from connection screen. DONE
 - scan button - change on launch to not be retry, switch to retry after first scan. add icon in the description text.DONE
 - pull and display radio settings - (add ability to configure radio settings) DONE
+- User configurable telemetry intervals, time and distance based. DONE
+
 
 ### 1.0
 - port to flutter for iOS support.
