@@ -8,7 +8,7 @@
 
 - fix if text active, stays active when switching chats.
 
-- Check if bearings are handled properly, currently varying a lot while stationary. WORKING - added filter, movement based bearing when moving.
+
 
 - remember last chat window opened?
 
@@ -34,7 +34,6 @@
     1. EXFIL plans and sharing via bluetooth. See ReadyPlan for reference.
 
 
-
 ## DONE
 - add mute notifications for specific chat options -DONE
 - add indicator for waypoint received, and color code on map until clicked. Show who sent the waypoint.  DONE
@@ -57,7 +56,8 @@
 - scan button - change on launch to not be retry, switch to retry after first scan. add icon in the description text.DONE
 - pull and display radio settings - (add ability to configure radio settings) DONE
 - User configurable telemetry intervals, time and distance based. DONE
-
+- Convert TELE to binary to save transmission airtime. This will help integrate with firmware version also. DONE
+- Check if bearings are handled properly, currently varying a lot while stationary. WORKING - added filter, movement based bearing when moving. DONE
 
 ### 1.0
 - port to flutter for iOS support.
