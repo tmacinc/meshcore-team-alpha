@@ -1,6 +1,11 @@
 ## feature requests
 
-
+- BUG - stale time data when user entered geofence... 
+    Set location source to "Phone GPS"
+    Stand completely still for 35+ seconds (trigger geofence)
+    Watch other user's status during the 30-second stationary detection window
+    Expected: Should never show absurd times like "1d ago"
+    Monitor logs: Check for any Invalid lastSeen timestamp warnings if defensive validation is added
 
 - historical track when user selected on map
 
