@@ -1,4 +1,6 @@
 ## feature requests
+- firmware update to auto drop forwarding if not connected to app after time.
+
 
 - BUG - stale time data when user entered geofence... 
     Set location source to "Phone GPS"
