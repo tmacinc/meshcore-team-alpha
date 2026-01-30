@@ -1,6 +1,10 @@
 ## feature requests
 - firmware update to auto drop forwarding if not connected to app after time.
-
+- method to check firmware is TEAM?
+- show different icon for forwarding not available when non-team firmware used.
+- handle stale contacts. What condition do we use to say contact should be part of group if they were previously
+- contacts are currently not all showing on map, maybe we need a list of active that you can click on to center map?
+- need heavy debug logs for troubleshooting and getting this working right.
 
 - BUG - stale time data when user entered geofence... 
     Set location source to "Phone GPS"
