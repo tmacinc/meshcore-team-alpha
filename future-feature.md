@@ -1,10 +1,8 @@
 ## feature requests
 - firmware update to auto drop forwarding if not connected to app after time.
-- method to check firmware is TEAM?
-- show different icon for forwarding not available when non-team firmware used.
-- handle stale contacts. What condition do we use to say contact should be part of group if they were previously
-- contacts are currently not all showing on map, maybe we need a list of active that you can click on to center map?
-- need heavy debug logs for troubleshooting and getting this working right.
+
+- Investigate traffic optimization. Is current forwarding approach best? Or is additional overhead to track who is connected via who worth it to allow each user to use different forwarding rules?
+- keep screen off when msf receivedgit 
 
 - BUG - stale time data when user entered geofence... 
     Set location source to "Phone GPS"
@@ -69,6 +67,11 @@
 - User configurable telemetry intervals, time and distance based. DONE
 - Convert TELE to binary to save transmission airtime. This will help integrate with firmware version also. DONE
 - Check if bearings are handled properly, currently varying a lot while stationary. WORKING - added filter, movement based bearing when moving. DONE
+- method to check firmware is TEAM? DONE
+- show different icon for forwarding not available when non-team firmware used. DONE
+- handle stale contacts. What condition do we use to say contact should be part of group if they were previously DONE needs testing. 12 hour default, can select and remove manualy
+- contacts are currently not all showing on map, maybe we need a list of active that you can click on to center map? -DONE Major issue with contact management, refactored with contactmanager
+- need heavy debug logs for troubleshooting and getting this working right. DONE resolved lots of issues
 
 ### 1.0
 - port to flutter for iOS support.
