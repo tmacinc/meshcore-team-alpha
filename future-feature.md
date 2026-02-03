@@ -1,4 +1,6 @@
 ## feature requests
+- update timing for forwarding to 5mins
+
 - firmware update to auto drop forwarding if not connected to app after time.
 
 - Investigate traffic optimization. Is current forwarding approach best? Or is additional overhead to track who is connected via who worth it to allow each user to use different forwarding rules?
@@ -72,6 +74,7 @@
 - handle stale contacts. What condition do we use to say contact should be part of group if they were previously DONE needs testing. 12 hour default, can select and remove manualy
 - contacts are currently not all showing on map, maybe we need a list of active that you can click on to center map? -DONE Major issue with contact management, refactored with contactmanager
 - need heavy debug logs for troubleshooting and getting this working right. DONE resolved lots of issues
-
+- added scroll where it wasn't.
+- updated sync to be more clear it's occuring.
 ### 1.0
 - port to flutter for iOS support.
