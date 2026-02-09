@@ -1,4 +1,6 @@
 ## feature requests
+- disable repeater DM
+
 - update timing for forwarding to 5mins
 
 - firmware update to auto drop forwarding if not connected to app after time.
